@@ -1,0 +1,103 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Object.swift",
+      "line": 8,
+      "symbol": "ASN1Primitive",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Object.swift",
+      "line": 15,
+      "symbol": "ASN1Primitive",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Object.swift",
+      "line": 53,
+      "symbol": "ASN1Primitive",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Tag.swift",
+      "line": 105,
+      "symbol": "ASN1Tag.universal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Tag.swift",
+      "line": 106,
+      "symbol": "ASN1Tag.constructed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Tag.swift",
+      "line": 107,
+      "symbol": "ASN1Tag.application",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Tag.swift",
+      "line": 108,
+      "symbol": "ASN1Tag.private",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ASN1Tag.swift",
+      "line": 109,
+      "symbol": "ASN1Tag.tagged",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ObjectIdentifier.swift",
+      "line": 7,
+      "symbol": "ObjectIdentifier",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ObjectIdentifier.swift",
+      "line": 8,
+      "symbol": "ObjectIdentifier.rawValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/ObjectIdentifier.swift",
+      "line": 40,
+      "symbol": "ObjectIdentifier",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/encodable/Bool+ASN1Encoding.swift",
+      "line": 20,
+      "symbol": "Bool.asn1decoded(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/encodable/Data+ASN1Encoding.swift",
+      "line": 20,
+      "symbol": "Data.asn1decoded(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI/Sources/ASN1Kit/encodable/Date+ASN1Encoding.swift",
+      "line": 50,
+      "symbol": "Date.asn1decoded(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/tst_tt_build/Jenkins/workspace/ASN1Kit-REF-SWIFT-LIB-CI"
+}
